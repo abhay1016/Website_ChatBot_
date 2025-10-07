@@ -75,3 +75,4 @@ urllib3==2.5.0
 watchdog==6.0.0
 xxhash==3.5.0
 zstandard==0.23.0
+langchain-google-genai
